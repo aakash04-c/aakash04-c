@@ -2,83 +2,98 @@
 
 # Aakash Malviya
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+Developer;Backend+Development+with+Spring+Boot" />
+### Computer Science Student • Java Developer
+
+Building clean backend applications with **Java** and **Spring Boot**.
+
+<br>
+
+<a href="https://github.com/aakash04-c">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/>
+</a>
+<a href="https://portfolio-sage-seven-12.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=flat-square"/>
+</a>
+<a href="mailto:aakashmalviya2203@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square"/>
+</a>
 
 </div>
 
 ---
 
-### About
+## About
 
-Computer Science student focused on building reliable backend applications with **Java** and **Spring Boot**.
+I enjoy building backend applications with Java and Spring Boot while continuously improving my problem-solving skills through Data Structures & Algorithms.
 
-I enjoy designing REST APIs, learning software architecture, and solving algorithmic problems.
+Currently exploring software architecture, REST API design, and scalable backend development.
 
-- **150+ LeetCode problems solved**
-- Currently exploring **Backend Development** & **System Design**
-- Passionate about writing clean, maintainable code
+```text
+Education
+────────────
+B.Tech in Computer Science Engineering (2024 – 2028)
 
----
+Focus
+────────────
+• Backend Development
+• Spring Boot
+• REST APIs
+• System Design
 
-### Tech
-
-<p align="left">
-<img src="https://cdn.simpleicons.org/openjdk" width="24"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/spring" width="24"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript" width="24"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/html5" width="24"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css" width="24"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql" width="24"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git" width="24"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github" width="24"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apachemaven" width="24"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/intellijidea" width="24"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode" width="24"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postman" width="24"/>
-</p>
+Achievements
+────────────
+• 150+ LeetCode Problems Solved
+```
 
 ---
 
-### Connect
+## Tech Stack
 
-<p align="left">
+<div align="center">
 
-<a href="https://github.com/aakash04-c">
-<img src="https://cdn.simpleicons.org/github" width="22"/>
-</a>
-&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,git,github,maven,idea,vscode,postman"/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://cdn.simpleicons.org/linkedin" width="22"/>
-</a>
-&nbsp;&nbsp;
+</div>
 
-<a href="mailto:aakashmalviya2203@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail" width="22"/>
-</a>
-&nbsp;&nbsp;
+---
 
-<a href="https://portfolio-sage-seven-12.vercel.app">
-<img src="https://cdn.simpleicons.org/vercel" width="22"/>
-</a>
+## Current Focus
 
-</p>
+```text
+Learning
+────────
+Spring Boot Ecosystem
+
+Building
+────────
+Backend Projects
+
+Practicing
+──────────
+Data Structures & Algorithms
+
+Exploring
+─────────
+System Design
+```
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aakash04-c&show_icons=true&hide_border=true&theme=transparent"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-*Learning every day. Building one project at a time.*
+*"Consistency compounds into mastery."*
 
 </div>
