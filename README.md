@@ -49,7 +49,7 @@ I enjoy solving algorithmic problems, designing REST APIs, and continuously lear
 - 🎓 **B.Tech in Computer Science Engineering (2024–2028)**
 - ☕ **Java Developer**
 - 🍃 **Backend Development with Spring Boot**
-- 🧩 **150+ LeetCode Problems Solved**
+- 🧩 **250+ LeetCode Problems Solved**
 - 🌱 Learning **System Design**
 - 💡 Interested in Clean Architecture & REST APIs
 
